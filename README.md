@@ -6,3 +6,7 @@
 2. Landing layout with HTML+CSS
 
 3. Interactive anchors and buttons with JS
+
+4.  Create new project on Angular
+    Move our landing layout in it
+    Change JavaScript code into TypeScript
